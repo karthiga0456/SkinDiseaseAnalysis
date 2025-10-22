@@ -1,0 +1,5 @@
+{
+  "name": "AI Skin Disease Analyzer",
+  "description": "An AI-powered web application that analyzes images of skin lesions to identify potential skin conditions. This tool provides a preliminary analysis and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
